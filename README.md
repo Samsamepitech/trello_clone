@@ -1,5 +1,5 @@
 # trello_clone
-A trello clone made with php 
+A trello clone made with VueJS 
 
 
 # Project setup
