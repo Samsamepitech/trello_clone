@@ -13,9 +13,9 @@ npm run lint
  # Customize configuration
 See Configuration Reference.
 
-# composants pour les différents objets (catégories, posts, comments)
+composants pour les différents objets (catégories, posts, comments)
  
- # création d’un fichier Api/WPAPI.js pour regrouper les routes et fonctionnalités des CRUD
+ création d’un fichier Api/WPAPI.js pour regrouper les routes et fonctionnalités des CRUD
  
  ![image](https://user-images.githubusercontent.com/98088041/229519446-4b7914a7-d212-4142-ab2b-4a4b35ccea60.png)
 
